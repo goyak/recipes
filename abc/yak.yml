@@ -1,0 +1,18 @@
+name: abc
+repo: github.com/goyak/recipes
+summary: 
+version: '1.0'
+
+backend: atomic
+source: http://mirror.centos.org/centos/7/atomic/x86_64/repo
+branch: centos-atomic-host/7/x86_64/standard
+commit: 4620e591a76a44b624f6526bc6e8222d6db8de111e504ea50bbb544cd904a040
+
+description: |
+  Easystack Container Linux
+
+# extra
+abc: zz
+abc2: zz
+abc1: zz
+abc3: zz

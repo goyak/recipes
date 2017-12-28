@@ -1,5 +1,5 @@
-name: coreXX
-repo: gitlab.com/shawn111/foo
+name: es-atomic
+repo: github.com/goyak/recipes
 summary: Easystack Container Linux
 version: '1.0'
 
